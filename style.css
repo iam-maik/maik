@@ -1,3 +1,8 @@
 body {
     background-color: rgb(24, 25, 28);
 }
+
+.h1 {
+    font-family: monospace;
+    color: aliceblue;
+}
