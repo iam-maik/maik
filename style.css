@@ -7,3 +7,8 @@ h1 {
     font-family: monospace;
     text-align: center;
 }
+
+.button {
+    align-self: center;
+    border: none;
+}
