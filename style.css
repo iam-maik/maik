@@ -4,6 +4,7 @@ body {
 
 .square1 {
     border-bottom-right-radius: 20px;
-    padding: 80px;
+    width: max-content;
+    height: 200px;
     background-color: aliceblue;
 }
