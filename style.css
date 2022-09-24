@@ -5,4 +5,5 @@ body {
 h1 {
     color: aliceblue;
     font-family: monospace;
+    text-align: center;
 }
