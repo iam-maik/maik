@@ -1,14 +1,15 @@
 body {
-    background-color: rgb(24, 25, 28);
+    background-color: aliceblue;
 }
 
 .square1 {
     margin: 0px;
     position: absolute;
-    background-color: aliceblue;
+    background-color: #18191c;
     height: 60%;
-    width: 50%;
+    width: 40%;
     border-bottom-right-radius: 150px;
     top: 0px;
     left: 0px;
+    box-shadow: black;
 }
