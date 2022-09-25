@@ -6,4 +6,6 @@ body {
     margin: 0px;
     position: absolute;
     background-color: aliceblue;
+    height: 60%;
+    width: 30%;
 }
