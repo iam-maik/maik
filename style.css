@@ -11,5 +11,5 @@ body {
     border-bottom-right-radius: 150px;
     top: 0px;
     left: 0px;
-    box-shadow: black;
+    box-shadow: 10px solid black;
 }
