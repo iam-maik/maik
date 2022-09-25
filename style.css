@@ -5,12 +5,12 @@ body {
 .square1 {
     margin: 0px;
     position: absolute;
-    background-color: aliceblue;
+    background-color: #0000000f;
     height: 60%;
     width: 40%;
     border-bottom-right-radius: 150px;
     top: 0px;
     left: 0px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, #0000000f 0px 0px 0px 1px;
 }
 
