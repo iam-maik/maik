@@ -9,4 +9,6 @@ body {
     height: 60%;
     width: 50%;
     border-bottom-right-radius: 150px;
+    top: 0px;
+    left: 0px;
 }
