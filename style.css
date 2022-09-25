@@ -5,13 +5,13 @@ body {
 .square1 {
     margin: 0px;
     position: absolute;
-    background-color: #789dd5;
+    background-color: #202225;
     height: 60%;
     width: 40%;
     border-bottom-right-radius: 150px;
     border: none;
     top: 0px;
     left: 0px;
-    box-shadow: inset 10px 10px 10px 10px
+    box-shadow: 5px 10px inset
 }
 
