@@ -10,8 +10,8 @@ body {
     width: 40%;
     border-bottom-right-radius: 150px;
     border: none;
-    top: -5px;
-    left: -5px;
-    box-shadow: 10px 10px 15px #202225
+    top: 0px;
+    left: 0px;
+    box-shadow: 10px 10px 15px #202225 inset
 }
 
