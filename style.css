@@ -1,7 +1,11 @@
+::webkit-scrollbar {
+    width: 20px;
+}
+
+
 body {
     background-color: #111111;
     color: white;
-    overflow: hidden;
 }
 
 h1 {
