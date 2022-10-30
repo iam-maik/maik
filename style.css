@@ -3,9 +3,8 @@ body {
     color: white;
 }
 
-.navbar {
-    width: 100%;
-    height: 10%;
-    left: 0px;
-    right: 0px;
+.topnav {
+    color: #ffffff;
+    text-decoration: none;
+    
 }
