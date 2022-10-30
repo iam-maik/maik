@@ -7,3 +7,13 @@ body:hover {
     background-color: white;
     color: #111111;
 }
+
+.circle {
+    background-color: white;
+    color: #111111;
+}
+
+.circle:hover {
+    background-color: #111111;
+    color: white;
+}
