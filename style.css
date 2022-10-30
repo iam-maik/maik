@@ -11,9 +11,14 @@ body:hover {
 .circle {
     background-color: white;
     color: #111111;
+    height: 10%;
+    width: 10%;
+    border-radius: 100%;
 }
 
 .circle:hover {
     background-color: #111111;
     color: white;
+    width: 10%;
+    border-radius: 100%;
 }
