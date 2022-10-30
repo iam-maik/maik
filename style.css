@@ -6,6 +6,7 @@ body {
 body:hover {
     background-color: white;
     color: #111111;
+    transition: 1200ms;
 }
 
 .circle {
@@ -23,4 +24,5 @@ body:hover {
     color: #111111;
     width: 10%;
     border-radius: 100%;
+    transition: 1200ms;
 }
