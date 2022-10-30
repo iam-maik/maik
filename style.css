@@ -2,3 +2,8 @@ body {
     background-color: #111111;
     color: white;
 }
+
+body:hover {
+    background-color: white;
+    color: #111111;
+}
