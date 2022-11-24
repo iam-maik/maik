@@ -2,31 +2,3 @@ body {
     background-color: #111111;
     color: white;
 }
-
-body:hover {
-    background-color: white;
-    color: #111111;
-    transition: 800ms;
-}
-
-.circle {
-    background-color: white;
-    color: #111111;
-    height: 200px;
-    width: 200px;
-    border-radius: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    padding: 10px;
-    text-align: center;
-}
-
-.circle:hover {
-    background-color: #111111;
-    color: #111111;
-    width: 10%;
-    border-radius: 100%;
-    transition: 800ms;
-}
